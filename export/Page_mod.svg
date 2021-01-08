@@ -1,0 +1,20 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="140mm" version="1.2" viewBox="0 0 1400 1400" width="140mm" id="svg31" sodipodi:docname="Page_mod.svg" inkscape:version="1.0.1 (1.0.1+r74)">
+    <metadata id="metadata35"/>
+    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1898" inkscape:window-height="1414" id="namedview33" showgrid="false" inkscape:zoom="2.1393452" inkscape:cx="264.56693" inkscape:cy="264.56693" inkscape:window-x="843" inkscape:window-y="476" inkscape:window-maximized="1" inkscape:current-layer="svg31" units="mm" inkscape:showpageshadow="false" inkscape:pagecheckerboard="true" inkscape:document-units="mm">
+        <inkscape:grid type="xygrid" id="grid37"/>
+    </sodipodi:namedview>
+    <title id="title2">FreeCAD SVG Export</title>
+    <desc id="desc4">Drawing page: Page exported from FreeCAD document: Unnamed</desc>
+    <defs id="defs6">
+        <sodipodi:namedview inkscape:current-layer="svg2" objecttolerance="10" inkscape:showpageshadow="false" guidetolerance="10" inkscape:cx="264.56693" inkscape:document-units="mm" borderopacity="1" inkscape:window-width="3840" inkscape:document-rotation="0" bordercolor="#666666" showgrid="false" pagecolor="#ffffff" inkscape:window-height="2079" id="namedview221" inkscape:window-y="0" inkscape:window-x="0" inkscape:cy="264.56693" inkscape:window-maximized="1" inkscape:pagecheckerboard="true" inkscape:zoom="3.3961161" inkscape:pageopacity="0" gridtolerance="10" inkscape:pageshadow="2" units="mm">
+            <inkscape:grid type="xygrid" id="grid811"/>
+        </sodipodi:namedview>
+        <defs id="defs847"/>
+    </defs>
+    <g id="g72">
+        <text stroke="none" xml:space="preserve" fill="#0000ff" fill-opacity="1" y="703" font-size="24.6944px" x="666.85199" font-family="Overlock" font-style="normal" font-weight="400" id="text25" style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">test_Part</text>
+        <path fill-rule="evenodd" d="m 1200,980 v 120 H 200 V 300 h 1000 v 120 h -30 v 120 h 30 v 320 h -30 v 120 h 30" vector-effect="non-scaling-stroke" id="path13" style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"/>
+        <path fill-rule="evenodd" d="m 504.807,737.1311 c 3.241,-8.4931 0.347,-18.1038 -7.045,-23.3947 -7.392,-5.2908 -17.423,-4.93077 -24.417,0.8765 -6.994,5.8072 -9.191,15.6006 -5.349,23.8395 l 56.22,120.5656 c 7.878,16.894 26.436,26.045 44.634,22.011 C 587.049,876.994 600,860.857 600,842.217 V 830 650 l -340,30 v 100 h 60 c 82.843,0 150,67.157 150,150 v 100 c 0,13.807 11.193,25 25,25 13.807,0 25,-11.193 25,-25 V 930 C 520,819.543 430.457,730 320,730 h -30 v -30 h 300 v 130 10 c 0,11.722 -8.145,21.87 -19.589,24.407 -11.444,2.538 -23.115,-3.218 -28.069,-13.842 l -23.411,-50.206 c -3.826,-8.2037 -1.664,-17.9544 5.27,-23.773 6.935,-5.8185 16.912,-6.2542 24.327,-1.0621 6.962,4.8747 16.244,4.8172 23.145,-0.1432 6.901,-4.9604 9.914,-13.7405 7.512,-21.8927 -2.403,-8.1522 -9.694,-13.896 -18.182,-14.322 -8.489,-0.426 -16.319,4.5588 -19.525,12.4296 -4.075,10.0026 -15.44,14.8632 -25.488,10.9001 -10.047,-3.9631 -15.034,-15.2738 -11.183,-25.3646" vector-effect="non-scaling-stroke" id="path17" style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"/>
+        <path fill-rule="evenodd" d="M 600,450 V 550 H 400 V 450 h 200" vector-effect="non-scaling-stroke" id="path21" style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"/>
+    </g>
+</svg>
